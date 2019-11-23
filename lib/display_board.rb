@@ -1,3 +1,7 @@
-board = [" "," "," "," "," "," "," "," "," "]
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-display_board(board)
+def display_board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end # Define display_board that accepts a board and prints # out the current state. display_boarddisplay_board(board)

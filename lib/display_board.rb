@@ -7,4 +7,4 @@ def display_board(board)
 end # Define display_board that accepts a board and prints # out the current state. display_board display_board(board)
 
 board = [" "," "," "," "," "," "," "," "," "]
-display(board) = [" "," "," "," ","X"," "," "," "," "]
+display_board(board) = [" "," "," "," ","X"," "," "," "," "]
